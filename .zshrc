@@ -1,3 +1,5 @@
+# https://github.com/ohmyzsh/ohmyzsh/blob/master/templates/zshrc.zsh-template
+
 ZSH_THEME="random"
 
 path+=~/go/bin
