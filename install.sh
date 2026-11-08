@@ -2,3 +2,7 @@
 
 curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh | bash
 
+curl -fL \
+  -o ~/.zshrc \
+  https://raw.githubusercontent.com/managanemeke/zshrc/main/.zshrc
+
