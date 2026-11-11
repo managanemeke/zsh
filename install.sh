@@ -5,7 +5,7 @@ curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/instal
 
 curl -fL \
   -o ~/.zshrc \
-  https://raw.githubusercontent.com/managanemeke/zshrc/main/.zshrc
+  https://raw.githubusercontent.com/managanemeke/zsh/main/.zshrc
 
 install_zsh_proxy() {
   local zsh_proxy_path="${zsh_custom}/plugins/zsh-proxy"
