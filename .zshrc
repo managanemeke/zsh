@@ -8,6 +8,7 @@ path+=~/.local/bin
 plugins=(
   git
   z
+  zsh-proxy
 )
 
 export ZSH="$HOME/.oh-my-zsh"
