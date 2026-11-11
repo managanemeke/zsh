@@ -13,6 +13,7 @@ install_zsh_proxy() {
   git clone \
     "https://github.com/xooooooooox/zsh-proxy" \
     "${zsh_proxy_path}"
+  zproxy init
 }
 install_custom_plugins() {
   install_zsh_proxy
