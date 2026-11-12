@@ -14,3 +14,11 @@ plugins=(
 export ZSH="$HOME/.oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
 
+import_local_zshrc() {
+  local target = "$HOME/.zshrc.local"
+  if [ -r "${target}" ]; then
+    source "${target}"
+  fi
+}
+import_local_zshrc
+
