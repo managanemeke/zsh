@@ -13,9 +13,11 @@ curl -fsSL https://raw.githubusercontent.com/managanemeke/zsh/main/install.sh | 
 ## Using
 
 1. [ohmyzsh][2]
+2. [zsh-proxy][3]
 
 ---
 
 [1]: https://github.com/zsh-users/zsh
 [2]: https://github.com/ohmyzsh/ohmyzsh
+[3]: https://github.com/xooooooooox/zsh-proxy
 
