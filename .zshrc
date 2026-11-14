@@ -2,8 +2,9 @@
 
 ZSH_THEME="random"
 
-path+=~/go/bin
+path+=~/.cargo/bin
 path+=~/.local/bin
+path+=~/go/bin
 
 plugins=(
   git
